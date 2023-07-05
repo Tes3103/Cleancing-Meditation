@@ -201,3 +201,15 @@ hr {
 
 
 }
+
+/*opeining hours*/
+
+#opening {
+    background-image: url('../images/opening-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 98%;
+    overflow: hidden;
+
+}
