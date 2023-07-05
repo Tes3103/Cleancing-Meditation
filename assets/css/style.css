@@ -123,7 +123,7 @@ h2 {
 
 /* community-mindset */
 #community-mindset {
-    height: 495px;
+    height: 495px 0;
 }
 
 #left-about {
@@ -225,6 +225,7 @@ hr {
     background-color: rgba(0, 0, 0, 0.6);
     width: 50%;
     height: 300px;
+    padding: 30px 0 0 10px;
     float: left;
     text-align: center;
 
