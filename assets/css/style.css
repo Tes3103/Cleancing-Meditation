@@ -204,12 +204,19 @@ hr {
 
 /*opeining hours*/
 
-#opening {
-    background-image: url('../images/opening-background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    width: 98%;
-    overflow: hidden;
+#schdule div {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 150%;
+
+}
+
+#opening div {
+    color: #fafafa;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 50%;
+    height: 300px;
+    float: left;
+
 
 }
