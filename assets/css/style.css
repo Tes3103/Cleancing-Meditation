@@ -123,7 +123,9 @@ h2 {
 
 /* community-mindset */
 #community-mindset {
-    height: 495px 0;
+    height: 495px;
+    text-align: left;
+    margin-left: 20px;
 }
 
 #left-about {
@@ -204,9 +206,9 @@ hr {
 
 /*opeining hours*/
 
-#schdule div {
-    text-align: center;
-    margin: 5px 0;
+#schdule {
+    text-align: left;
+    margin-left: 20px;
     font-size: 100%;
 
 }
@@ -220,14 +222,15 @@ hr {
     overflow: hidden;
 }
 
-#opening div {
+#openings div {
     color: #fafafa;
     background-color: rgba(0, 0, 0, 0.6);
     width: 50%;
     height: 300px;
-    padding: 30px 0 0 10px;
+    padding: 3% 0 1% 0;
     float: left;
     text-align: center;
+    display: inline;
 
 
 
@@ -240,18 +243,18 @@ footer {
     height: 150px;
 }
 
-.social-media-links {
+.social-links {
     text-align: center;
 
 }
 
-.social-media-links>li {
+.social-links>li {
     display: inline;
 }
 
-.social-media-links i {
+.social-links i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: gray;
+    color: darkgray;
 }
