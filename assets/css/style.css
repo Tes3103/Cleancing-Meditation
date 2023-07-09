@@ -275,7 +275,7 @@ footer {
 /* Form */
 .form-section {
     clear: left;
-    background-image: url('../images/forms-background.jpg');
+    background-image: url('../images/forms-background 2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -288,10 +288,10 @@ footer {
     color: darkgrey;
     background-color: rgba(0, 0, 0, 0.6);
     position: absolute;
-    width: 40%;
+    width: 30%;
     height: 400px;
     float: left;
-    padding: 20px 0 0 20px;
+    padding: 0 20px 0 20px;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
