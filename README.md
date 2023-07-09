@@ -56,6 +56,37 @@ The website is formed from three pages, Home, Gallary and Sign Up, where each of
 * the background images gives the visitor a sence of peace and wellcomming felling as they are signed up.
 * At the end the different socil links which are able to be open in a separate tab.
 
+## Accessability
+* Using Semantic HTML.
+* Using an alt description on the gallary image.
+
+## Technologies used
+**Languages**
+* HTML
+* CSS
+
+**Other**
+* Git 
+* GitHub
+* Balsamiq
+* Googel Fonts
+* Googel Dev Tools
+
+## Deployment & Local Development
+
+**Deployment**
+
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+1. Log in (or sign up) to Github.
+2. Find the repository for this project,Cleansing Meditation.
+3. Click on the Settings link.
+4. Click on the Pages link in the left hand side navigation bar.
+5. In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu.
+6. Click Save. Your live Github Pages site is now deployed at the URL shown.
+
+**Local Development**
+* 
 
   
 
