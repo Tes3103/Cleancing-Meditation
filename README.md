@@ -155,15 +155,35 @@ To fork Cleansing-meditation repository
 ## Testing
 **W3C Validator**
 
-The W3C Validator was used to validate the HTML on all pages of the website. It was also used to validate the style.css file
+The W3C Validator was used to validate the HTML on all pages of the website. 
+
+**Jigsaw**
+
+**Lighthouse**
 
 **Testing Userstories**
 
-* First time 
+* First time visitor
 
   * As a visiting user, I want to have detailed information on what really the meditation community is about.The reason to join us sections gives the benefits of joining the meditation community and the gallary page gives a visual feedback of the inclusiveness.
-* As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation.the paragraph below each of the four lavel of  meditation journey gives a general insight.
-*  As a visiting user, I want to have the social links to have an upto date information.on each page of the footer area we provide all the social links to the website.
+  * As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation.the paragraph below each of the four lavel of  meditation journey gives a general insight.
+  *  As a visiting user, I want to have the social links to have an upto date information.on each page of the footer area we provide all the social links to the website.
+
+* Returning Visitors
+
+  * I want to have a free trial session to test if it is going to work for me.After filling the approperiate sign up page, the community will arrange a short introductory session.
+  * I want to have a detail information how can i be part of the community.The sign-up page and the social links help for further communication.
+
+## Credits
+
+**Media**
+
+**Acknowledgments**
+
+My hertfelt gratitiude goes to the follwing people for helping me to complete my first Portfolio project.
+
+1. 
+2. 
 
 
 
