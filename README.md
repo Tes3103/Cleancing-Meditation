@@ -40,10 +40,10 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
     * [Sign Up Page](#sign-up-page)
 
   * [Full Testing](#full-testing)
-  
+
 * [Credits](#credits)
 
-  * [Code Used](#code-used)
+  * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
   
