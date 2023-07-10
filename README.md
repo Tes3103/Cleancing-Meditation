@@ -4,16 +4,20 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
 
 * [User Experirance (UX)](#user-experiance(UX))
   * [User Stories](#user-stories)
+
 * [Design](#design)
+
   * [Topography](#topography)
   * [Color](#color)
   * [Images](#images)
   * [Wireframes](#wireframes)
   * [Features](#features)
   * [Accessability](#accessability)
+
 * [Technologies Used](#technologies-used) 
   * [Languages Used](#languages-used)
   * [Other](#other)
+
 * [Deployment & Local Development](#deployment-and-local-development)
 
   * [Deployment](#deployment)
@@ -21,6 +25,7 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
 
     * [To Fork](#to-fork)
     * [To Clone](#to-clone)
+
 * [Testing](#testing)
 
   * [W3C Validator](#w3c-validator)
@@ -29,11 +34,13 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
   * [Testing User Stories](#testing-user-stories)
 
   * [Lighthouse](#lighthouse)
+
     * [Home Page](#home-page)
     * [Gallery Page](#gallery-page)
     * [Sign Up Page](#sign-up-page)
 
-  *[Full Testing](#full-testing)
+  * [Full Testing](#full-testing)
+  
 * [Credits](#credits)
 
   * [Code Used](#code-used)
