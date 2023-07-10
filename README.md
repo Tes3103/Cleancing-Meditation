@@ -59,9 +59,9 @@ part of the meditation community.
 * To have more information on the technical aspect of the meditation process and the guidance they require.
 
 **First Time Visitor Goals**
-* I want to have detailed information on what really the meditation community is about.
-* I want to have a detil information regarding the purpose and different level of the cleancing meditation.
-* I want to have the social links to have an upto date information.
+* As a visiting user, I want to have detailed information on what really the meditation community is about.
+* As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation.
+* As a visiting user, I want to have the social links to have an upto date information.
 
 **Returning Visitors**
 * I want to have a free trial session to test if it is going to work for me.
@@ -153,9 +153,18 @@ To fork Cleansing-meditation repository
 5. Type 'git clone' into the terminal and then paste the link you copied earlier, then Press enter.
 
 ## Testing
-### W3C Validator
+**W3C Validator**
 
 The W3C Validator was used to validate the HTML on all pages of the website. It was also used to validate the style.css file
+
+**Testing Userstories**
+
+* First time 
+
+  * As a visiting user, I want to have detailed information on what really the meditation community is about.The reason to join us sections gives the benefits of joining the meditation community and the gallary page gives a visual feedback of the inclusiveness.
+* As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation.the paragraph below each of the four lavel of  meditation journey gives a general insight.
+*  As a visiting user, I want to have the social links to have an upto date information.on each page of the footer area we provide all the social links to the website.
+
 
 
   
