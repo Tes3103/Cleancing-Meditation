@@ -40,8 +40,6 @@ h2 {
     line-height: 75px;
 }
 
-
-
 #menu li {
     float: right;
     list-style-type: none;
@@ -107,13 +105,13 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
 
-    width: 300px;
-    height: 200px;
+    width: 220px;
+    height: 150px;
 
     padding-top: 40px;
-    padding-left: 10px;
+    padding-left: 5px;
 
-    background-color: rgba(241, 109, 107, .7);
+    background-color: #f16d6bb3;
 
     bottom: 30px;
     right: 150px;
@@ -150,7 +148,7 @@ h2 {
 }
 
 hr {
-    border-top: 1px darkgray;
+    border-top: 1px darkgrey;
     width: 100%;
     margin: 5px 0;
 }
@@ -226,16 +224,13 @@ hr {
 
 #openings div {
     color: #fafafa;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #00000099;
     width: 50%;
     height: 300px;
     padding: 3% 0 1% 0;
     float: left;
     text-align: center;
     display: inline;
-
-
-
 
 }
 
@@ -288,7 +283,7 @@ footer {
 
 .signup-form {
     color: darkgrey;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #00000099;
     position: absolute;
     margin-left: 200px;
     margin-top: 100px;
@@ -380,7 +375,6 @@ footer {
         display: none;
     }
 
-
 }
 
 /* For medium screen sizes from 950px width and below */
@@ -422,7 +416,6 @@ footer {
         text-align: center;
         padding: 0 20px;
     }
-
 }
 
 /* For small screen sizes 800px and down */
