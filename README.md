@@ -1,5 +1,47 @@
 # Cleansing Meditation Website
 Cleansing Meditation Website is designed to be a responsive website for the people who are interested to be part of such a community using various devices.
+## Contents
+
+* [User Experirance (UX)](#user-experiance(UX))
+  * [User Stories](#user-stories)
+* [Design](#design)
+  * [Topography](#topography)
+  * [Color](#color)
+  * [Images](#images)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+  * [Accessability](#accessability)
+* [Technologies Used](#technologies-used) 
+  * [Languages Used](#languages-used)
+  * [Other](#other)
+* [Deployment & Local Development](#deployment-and-local-development)
+
+  * [Deployment](#deployment)
+  * [Local Development](#local-development)
+
+    * [To Fork](#to-fork)
+    * [To Clone](#to-clone)
+* [Testing](#testing)
+
+  * [W3C Validator](#w3c-validator)
+  * [](#)
+  * [Solved Bugs](#solved-bugs)
+  * [Testing User Stories](#testing-user-stories)
+
+  * [Lighthouse](#lighthouse)
+    * [Home Page](#home-page)
+    * [Gallery Page](#gallery-page)
+    * [Sign Up Page](#sign-up-page)
+
+  *[Full Testing](#full-testing)
+* [Credits](#credits)
+
+  * [Code Used](#code-used)
+  * [Acknowledgments](#acknowledgments)
+
+  
+  
+
 ## User Experiance (UX)
 ### Useer Stories
 **Client Goals** 
@@ -86,7 +128,28 @@ Github Pages was used to deploy the live website. The instructions to achieve th
 6. Click Save. Your live Github Pages site is now deployed at the URL shown.
 
 **Local Development**
-* 
+
+**To Fork**
+
+To fork Cleansing-meditation repository
+
+1. Log in (sign-up) to Github.
+2. Select the repository this poject, cleancing-meditation
+3. Click the fork button in the top right corner.
+
+**To Clone**
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, Cleancing-meditation.
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied earlier, then Press enter.
+
+## Testing
+### W3C Validator
+
+The W3C Validator was used to validate the HTML on all pages of the website. It was also used to validate the style.css file
+
 
   
 
