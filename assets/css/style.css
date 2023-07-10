@@ -264,7 +264,7 @@ footer {
 
 }
 
-#photos>img {
+#photos > img {
     width: 100%;
 }
 
@@ -323,7 +323,6 @@ footer {
     font-size: 100%;
     color: darkgreen;
     display: block;
-
 
 }
 
