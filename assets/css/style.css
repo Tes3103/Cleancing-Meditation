@@ -200,7 +200,6 @@ hr {
     height: 100%;
     border-radius: 50%;
 
-
 }
 
 /*opeining hours*/
@@ -356,7 +355,6 @@ footer {
         padding: 0;
     }
 
-
     #center-about {
         clear: both;
         width: 100%;
@@ -418,9 +416,9 @@ footer {
     }
 }
 
-/* For small screen sizes 800px and down */
+/* For small screen sizes 700px and down */
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
     #photos {
         column-count: 1;
     }
