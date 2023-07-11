@@ -284,9 +284,9 @@ footer {
     color: darkgrey;
     background-color: #00000099;
     position: absolute;
-    margin-left: 200px;
-    margin-top: 100px;
-    width: 30%;
+    margin-left: 20%;
+    margin-top: 120px;
+    width: 35%;
     height: 400px;
     float: left;
     padding: 5% 20px 5% 20px;
@@ -299,11 +299,13 @@ footer {
 .signup-form > h2 {
     color: #fafafa;
     margin-bottom: 5px;
+    font-size: 20px;
+
 }
 
 .text-input {
     color: black;
-    width: 80%;
+    width: 85%;
     height: 20px;
     margin: 5px 20px;
     border: 1px solid white;
@@ -316,7 +318,7 @@ footer {
 
 .join-button {
     margin-top: 15px;
-    margin-left: 120px;
+    margin-left: 150px;
     border-radius: 2px;
     padding: 5px 10px 5% 10px;
     text-align: center;
