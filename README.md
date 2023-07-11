@@ -155,9 +155,16 @@ To fork Cleansing-meditation repository
 ## Testing
 **W3C Validator**
 
-The W3C Validator was used to validate the HTML on all pages of the website. 
+The W3C Validator was used to validate the index, gallery and sign-up html
 
-**Jigsaw**
+[W3C home page html](documentation/readme.pictures/W3C%20home%20page.png)
+
+[W3C gallery page html](documentation/readme.pictures/Gallery%20validator%20bug%20warning%20fixed.png)
+
+[W3C sign-up page html](documentation/readme.pictures/W3C%20sign%20up%20page.png)
+
+[style.css CSS](documentation/readme.pictures/CSS%20validation.png)
+
 
 **Lighthouse**
 
