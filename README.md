@@ -119,7 +119,7 @@ The website is formed from three pages, Home, Gallary and Sign Up, where each of
 * GitHub
 * Balsamiq
 * Googel Fonts
-* Googel Dev Tools
+* Chrome Dev Tools
 
 ## Deployment & Local Development
 
@@ -165,21 +165,31 @@ The W3C Validator was used to validate the index, gallery and sign-up html
 
 [style.css CSS](documentation/readme.pictures/CSS%20validation.png)
 
+**Solved Bugs**
 
 **Lighthouse**
+
+I haved used the Crome Developer tools to test the performance, accessibility, best practice and SEO of my website
+
+**Home Page**
 
 **Testing Userstories**
 
 * First time visitor
 
-  * As a visiting user, I want to have detailed information on what really the meditation community is about.The reason to join us sections gives the benefits of joining the meditation community and the gallary page gives a visual feedback of the inclusiveness.
-  * As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation.the paragraph below each of the four lavel of  meditation journey gives a general insight.
-  *  As a visiting user, I want to have the social links to have an upto date information.on each page of the footer area we provide all the social links to the website.
-
+| user stories| Results |
+|---| --- |
+| As a visiting user, I want to have detailed information on what really the meditation community is about |The reason to join us sections gives the benefits of joining the meditation community and the gallary page gives a visual feedback of the inclusiveness
+| As a visiting user, I want to have a detil information regarding the purpose and different level of the cleancing meditation| the paragraph below each of the four lavel of  meditation journey gives a general insight |
+|As a visiting user, I want to have the social links to have an upto date information | on each page of the footer area we provide all the social links to the website|
+ 
 * Returning Visitors
 
-  * I want to have a free trial session to test if it is going to work for me.After filling the approperiate sign up page, the community will arrange a short introductory session.
-  * I want to have a detail information how can i be part of the community.The sign-up page and the social links help for further communication.
+| user stories | Results |
+| ---| ---|
+| I want to have a free trial session to test if it is going to work for me | After filling the approperiate sign up page, the community will arrange a short introductory session |
+| I want to have a detail information how can i be part of the community | The sign-up page and the social links help for further communication |
+
 
 ## Credits
 
