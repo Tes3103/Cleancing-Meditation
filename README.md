@@ -76,7 +76,14 @@ The following fonts are used from Google Fonts: -
 ### Images
 All images are used from the free downlad section and are used to give a visual feedback and to witness the inclusiveness and also to show some features of the group guided meditation service also avilable for evry one including kids school.
 ### Wireframes 
-Home page wireframe for three different devices 
+wireframe for three different devices
+
+[Wireframe for desktop](documentation/wireframe.pictures/wireframe-3.png)
+
+[Wireframe for ipad](documentation/wireframe.pictures/wifre%20frame.png)
+
+[Wireframe for phon](documentation/wireframe.pictures/wireframe-iphon.png)
+
 ### Features
 The website is formed from three pages, Home, Gallary and Sign Up, where each of the pages can be accessed fro the navigation menu.
 
