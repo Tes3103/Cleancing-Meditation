@@ -182,7 +182,7 @@ I haved used the Crome Developer tools to test the performance, accessibility, b
 
 * Sign-up Page
 
-! [https://tes3103.github.io/Cleansing-Meditation/sign-up.html](documentation/readme.pictures/lighthouse%20sign-up%20page.png)
+![https://tes3103.github.io/Cleansing-Meditation/sign-up.html](documentation/readme.pictures/lighthouse%20sign-up%20page.png)
 
 **Testing Userstories**
 
