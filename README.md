@@ -29,7 +29,6 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
 * [Testing](#testing)
 
   * [W3C Validator](#w3c-validator)
-  * [](#)
   * [Solved Bugs](#solved-bugs)
   * [Testing User Stories](#testing-user-stories)
 
@@ -39,7 +38,6 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
     * [Gallery Page](#gallery-page)
     * [Sign Up Page](#sign-up-page)
 
-  * [Full Testing](#full-testing)
 
 * [Credits](#credits)
 
