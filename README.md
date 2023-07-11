@@ -165,11 +165,24 @@ The W3C Validator was used to validate the index, gallery and sign-up html
 
 **Solved Bugs**
 
+
+
 **Lighthouse**
 
 I haved used the Crome Developer tools to test the performance, accessibility, best practice and SEO of my website
 
-**Home Page**
+**Results**
+
+* Home Page
+
+![https://tes3103.github.io/Cleansing-Meditation/index.html](documentation/readme.pictures/Lighthouse%20home%20page.png)
+
+* Gallery Page
+![https://tes3103.github.io/Cleansing-Meditation/gallery.html](documentation/readme.pictures/lighthouse%20gallery%20page.png)
+
+* Sign-up Page
+
+! [https://tes3103.github.io/Cleansing-Meditation/sign-up.html](documentation/readme.pictures/lighthouse%20sign-up%20page.png)
 
 **Testing Userstories**
 
@@ -188,17 +201,24 @@ I haved used the Crome Developer tools to test the performance, accessibility, b
 | I want to have a free trial session to test if it is going to work for me | After filling the approperiate sign up page, the community will arrange a short introductory session |
 | I want to have a detail information how can i be part of the community | The sign-up page and the social links help for further communication |
 
+**Full Testing**
+
+
 
 ## Credits
 
 **Media**
 
+**Images**
+
+All the images taken from the free source from Googel search 
+
 **Acknowledgments**
 
 My hertfelt gratitiude goes to the follwing people for helping me to complete my first Portfolio project.
 
-1. 
-2. 
+1. Rohit Sharma- my Mentor
+2. Kay Welfare- Code 
 
 
 
