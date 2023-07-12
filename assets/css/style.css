@@ -63,8 +63,8 @@ h2 {
 /* hero image */
 
 #hero-outer {
-    height: 434px;
-    width: 99%;
+    height: 368px;
+    width: 100%;
     overflow: hidden;
 
     position: relative;
@@ -77,8 +77,8 @@ h2 {
 }
 
 #hero-image {
-    height: 434px;
-    width: 99%;
+    height: 368px;
+    width: 100%;
     background: url('../images/hero image.jpg') no-repeat center center;
     /* animates zoom effects on loading page */
     animation-name: hero-zoom;
@@ -121,7 +121,7 @@ h2 {
 
 /* community-mindset */
 #community-mindset {
-    height: 300px;
+    height: 368px;
     text-align: left;
     margin-left: 20px;
     margin-top: 20px;
@@ -284,12 +284,12 @@ footer {
     color: darkgrey;
     background-color: #00000099;
     position: absolute;
-    margin-left: 20%;
-    margin-top: 120px;
-    width: 35%;
+    margin-left: 16%;
+    margin-top: 140px;
+    width: 30%;
     height: 400px;
     float: left;
-    padding: 5% 20px 5% 20px;
+    padding: 5% 20% 5% 20%;
     text-align: center;
     border: 2px solid white;
     box-sizing: border-box;
@@ -299,13 +299,13 @@ footer {
 .signup-form > h2 {
     color: #fafafa;
     margin-bottom: 5px;
-    font-size: 20px;
+    font-size: 15px;
 
 }
 
 .text-input {
     color: black;
-    width: 85%;
+    width: 92%;
     height: 20px;
     margin: 5px 20px;
     border: 1px solid white;
@@ -318,8 +318,8 @@ footer {
 
 .join-button {
     margin-top: 15px;
-    margin-left: 150px;
-    border-radius: 2px;
+    margin-left: 100px;
+    border-radius: 20px;
     padding: 5px 10px 5% 10px;
     text-align: center;
     font-size: 100%;
@@ -338,8 +338,8 @@ footer {
 /* For larger to medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
     #community-mindset {
-        width: 50%;
-        height: 900px;
+        width: 65%;
+        height: 1200px;
         margin: 0 auto;
     }
 
@@ -394,7 +394,7 @@ footer {
 
     #community-mindset {
         width: 90%;
-        height: 1200px;
+        height: 819px;
         margin: 0 auto;
     }
 
@@ -417,9 +417,9 @@ footer {
     }
 }
 
-/* For small screen sizes 700px and down */
+/* For small screen sizes 800px and down */
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 800px) {
     #photos {
         column-count: 1;
     }
