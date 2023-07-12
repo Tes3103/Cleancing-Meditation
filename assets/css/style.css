@@ -285,8 +285,8 @@ footer {
     background-color: #00000099;
     position: absolute;
     margin-left: 16%;
-    margin-top: 140px;
-    width: 30%;
+    margin-top: 100px;
+    width: 55%;
     height: 400px;
     float: left;
     padding: 5% 20% 5% 20%;
@@ -301,13 +301,14 @@ footer {
     margin-bottom: 5px;
     font-size: 15px;
 
+
 }
 
 .text-input {
     color: black;
-    width: 92%;
+    width: 150%;
     height: 20px;
-    margin: 5px 20px;
+    margin: 5% 20%;
     border: 1px solid white;
     border-radius: 2px;
 }
