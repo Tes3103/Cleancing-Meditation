@@ -234,16 +234,13 @@ I have used googel chrome and mozella firefox to test the website and perform th
 I have also used googel chrome developer tools to check the respossiveness to differnt screen sizes and works.
 
 
-
-
-
 ## Credits
 
 **Media**
 
 **Images**
 
-All the images taken from the free source from Googel search 
+All the images taken from the free source from free image website from googel search. 
 
 **Acknowledgments**
 
