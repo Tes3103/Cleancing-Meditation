@@ -174,6 +174,10 @@ The W3C Validator was used to validate the index, gallery and sign-up html
 
 **Solved Bugs**
 
+1. At the middle of the home page the alignment of the page was disrupted. I have fixed this error by adjusting the size of the  image and font sizes.
+2. Gallery page was not responsive well for the smaller screen sizes. i have fixed this by rearrenging the media quiery format on the style.css section.
+3. Sign-up page on its text input filled was showing mis alignment for smaller screen sizes. i have used a mobile first approach. 
+
 
 
 **Lighthouse**
@@ -211,6 +215,23 @@ I haved used the Crome Developer tools to test the performance, accessibility, b
 | I want to have a detail information how can i be part of the community | The sign-up page and the social links help for further communication |
 
 **Supported Screens and Browsers**
+
+I have used googel chrome and mozella firefox to test the website and perform the follwing test
+
+**Sign-up Form**
+
+1. I have tried to submit the form without filling any of the input filled, the form work correctly and directed the user to fill the first name fild.
+2. I have tried to fill the first name filled and submit. the form works correctly and directs the user to fill the last name filed.
+3. I have tried to submit the form after filling the first and last name filled, the form works properly and directs the user to fill the emil address filled.
+4. I have tried to fill the email address filed without the proper format, the form works properly and directs the user to fill it with a proper format.
+5.  I have tried to submit the form after filling the email address filled together with the first and last name, the form works properly and directs the user to select one of the radio butten.
+6. I have filled and select all the sections and submit the form. It works properly and submitted.
+
+**Links**
+
+* I have checked all the links on the three pages (Home, Gallery and Sign-up) and all works properly as expected, and the links which are linked to the external source opens in the separate brawser tab.
+
+I have also used googel chrome developer tools to check the respossiveness to differnt screen sizes and works.
 
 
 
