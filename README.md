@@ -92,6 +92,8 @@ The website is formed from three pages, Home, Gallary and Sign Up, where each of
 **Home Page**
 
 ![Cleansing Meditation (tes3103.github.io)](documentation/readme.pictures/home%20page%20for%20readme.png)
+
+
 * On the top left there is a logo  and on the right the three menus,
 * Below there is a zoom in image which shows people meditating with a descriptive tag on the right side to give an inspiration for the visitors,
 * At the center thre is a heading with center image describing the community mindset and different levels of the meditation process and a description on how to achieve each level,
@@ -101,6 +103,8 @@ The website is formed from three pages, Home, Gallary and Sign Up, where each of
 **Gallary page**
 
 ![Cleansing Meditation (tes3103.github.io)](documentation/readme.pictures/gallery%20page%20for%20readme.png)
+
+
 * On the top left there is a logo  and on the right the three menus,
 * The whole middile section is covered by an image aiming to give the visitors a visual information regarding,
   - Guided group meditation service.
@@ -113,6 +117,8 @@ The website is formed from three pages, Home, Gallary and Sign Up, where each of
 **Sign-Up Page**
 
 ![Cleansing Meditation (tes3103.github.io)](documentation/readme.pictures/sign-up%20page.png)
+
+
 * On the top left there is a logo  and on the right the three menus,
 * At the middle there is a contact form with a submission button with a mandatory section,
 * the background images gives the visitor a sence of peace and wellcomming felling as they are signed up.
