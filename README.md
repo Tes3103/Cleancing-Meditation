@@ -1,5 +1,8 @@
 # Cleansing Meditation Website
 Cleansing Meditation Website is designed to be a responsive website for the people who are interested to be part of such a community using various devices.
+
+![Multi Device Website Mockup Generator (techsini.com)](documentation/readme.pictures/to%20check%20the%20web.png)
+
 ## Contents
 
 * [User Experirance (UX)](#user-experiance(UX))
@@ -38,14 +41,13 @@ Cleansing Meditation Website is designed to be a responsive website for the peop
     * [Gallery Page](#gallery-page)
     * [Sign Up Page](#sign-up-page)
 
+  * [Supported Screens and Browsers](#supported-screens-and-browsers)
+
 
 * [Credits](#credits)
 
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
-
-  
-  
 
 ## User Experiance (UX)
 ### Useer Stories
@@ -208,7 +210,9 @@ I haved used the Crome Developer tools to test the performance, accessibility, b
 | I want to have a free trial session to test if it is going to work for me | After filling the approperiate sign up page, the community will arrange a short introductory session |
 | I want to have a detail information how can i be part of the community | The sign-up page and the social links help for further communication |
 
-**Full Testing**
+**Supported Screens and Browsers**
+
+
 
 
 
