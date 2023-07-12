@@ -178,6 +178,10 @@ The W3C Validator was used to validate the index, gallery and sign-up html
 2. Gallery page was not responsive well for the smaller screen sizes. i have fixed this by rearrenging the media quiery format on the style.css section.
 3. Sign-up page on its text input filled was showing mis alignment for smaller screen sizes. i have used a mobile first approach. 
 
+**Unsolved Bugs**
+
+* During lighthouse testing, there are a number of issues suggested by the lighthouse developer tolls, due to time constrient i was not able to adress all suggesstions.
+
 
 
 **Lighthouse**
